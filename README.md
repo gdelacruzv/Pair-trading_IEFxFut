@@ -1,7 +1,6 @@
 # Pair-trading_IEFxFut
 **A Pair Trading Strategy Using IEF and ZN with ARIMA Residuals**
 
-*Author: Paul Teetor*
 
 **Abstract:**
 
